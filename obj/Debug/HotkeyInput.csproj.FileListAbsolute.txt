@@ -1,0 +1,16 @@
+D:\Dev\HotkeyInput\bin\Debug\SCInput.exe.config
+D:\Dev\HotkeyInput\bin\Debug\SCInput.exe
+D:\Dev\HotkeyInput\bin\Debug\SCInput.pdb
+D:\Dev\HotkeyInput\obj\Debug\HotkeyInput.csprojAssemblyReference.cache
+D:\Dev\HotkeyInput\obj\Debug\MainWindow.g.cs
+D:\Dev\HotkeyInput\obj\Debug\App.g.cs
+D:\Dev\HotkeyInput\obj\Debug\SCInput_MarkupCompile.cache
+D:\Dev\HotkeyInput\obj\Debug\SCInput_MarkupCompile.lref
+D:\Dev\HotkeyInput\obj\Debug\MainWindow.baml
+D:\Dev\HotkeyInput\obj\Debug\SCInput.g.resources
+D:\Dev\HotkeyInput\obj\Debug\SCInput.Properties.Resources.resources
+D:\Dev\HotkeyInput\obj\Debug\HotkeyInput.csproj.GenerateResource.cache
+D:\Dev\HotkeyInput\obj\Debug\SCInput.exe
+D:\Dev\HotkeyInput\obj\Debug\SCInput.pdb
+D:\Dev\HotkeyInput\bin\Debug\Shortcut.dll
+D:\Dev\HotkeyInput\obj\Debug\HotkeyInput.csproj.CopyComplete

@@ -1,0 +1,13 @@
+D:\Dev\HotkeyInput\obj\Release\HotkeyInput.csprojAssemblyReference.cache
+D:\Dev\HotkeyInput\obj\Release\MainWindow.g.cs
+D:\Dev\HotkeyInput\obj\Release\App.g.cs
+D:\Dev\HotkeyInput\obj\Release\MainWindow.baml
+D:\Dev\HotkeyInput\obj\Release\HotkeyInput.csproj.GenerateResource.cache
+D:\Dev\HotkeyInput\obj\Release\HotkeyInput_MarkupCompile.cache
+D:\Dev\HotkeyInput\obj\Release\HotkeyInput_MarkupCompile.lref
+D:\Dev\HotkeyInput\bin\Release\HotkeyInput.exe
+D:\Dev\HotkeyInput\bin\Release\HotkeyInput.pdb
+D:\Dev\HotkeyInput\obj\Release\HotkeyInput.g.resources
+D:\Dev\HotkeyInput\obj\Release\HotkeyInput.Properties.Resources.resources
+D:\Dev\HotkeyInput\obj\Release\HotkeyInput.exe
+D:\Dev\HotkeyInput\obj\Release\HotkeyInput.pdb
